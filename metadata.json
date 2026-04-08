@@ -1,0 +1,8 @@
+{
+  "name": "MindRecovery",
+  "description": "A holistic mental wellbeing web app featuring AI-driven assessments, personalized recovery journeys, and multi-modal coaching support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
